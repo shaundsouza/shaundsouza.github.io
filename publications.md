@@ -1,35 +1,29 @@
-<!DOCTYPE html>
- 
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Shaun D'Souza | Publications</title>
-</head>
-<body>
-
-<h2>Publications</h2>
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
 
 <h3>AI, Generative AI</h3>
 
 <ol>
-<li> S. D'Souza, D. Shah, A. Allati, and P. Soni. <a href="https://arxiv.org/pdf/2306.07305.pdf">Making forecasting self-learning and adaptive – pilot forecasting rack</a>. arXiv preprint arXiv:2306.07305, 2023.</li>
-<li> S. D'Souza. <a href="https://hal.science/hal-03740772/document">Intelligent supply chain management using quantum</a>. hal-03740772, 2022.</li>
-<li> P. Pathakota, K. Zaid, A. Dhara, H. Meisheri, S. D'Souza, D. Shah, and H. Khadilkar. <a href="https://arxiv.org/pdf/2112.08736.pdf">Learning to minimize cost to serve for multi-node multi-product order fulfilment in electronic commerce</a>. In Proceedings of the 6th Joint International Conference on Data Science & Management of Data (CODS-COMAD), pages 176–184, 2023.</li>
-<li> S. D'Souza. <a href="https://arxiv.org/pdf/2104.14398.pdf">Implementing reinforcement learning algorithms in retail supply chains with openai gym toolkit</a>. arXiv preprint arXiv:2104.14398, 2021. <a href="https://www.tcs.com/what-we-do/industries/retail/white-paper/reinforcement-learning-algorithms-retail-supply-chain">Evangelist, Mission Algo 2021.</a></li>
-<li> S. D'Souza and B. Mehta. <a href="https://ssrn.com/abstract=3255075">Defining a sandbox for responsible ai</a>. Available at SSRN 3255075, 2018. SSRN's Top 100 download list for CompSciRN: Artificial Intelligence, 2018.</li>
-<li> S. D'Souza. <a href="https://www.preprints.org/manuscript/201811.0579/v1/download">LSTM neural network for textual ngrams</a>. Preprints, 2018. SSRN's Top Ten download list for CompSciRN: Artificial Intelligence, Dec, 2018.</li>
-<li> S. D'Souza. <a href="https://arxiv.org/pdf/1811.05768.pdf">Parser extraction of triples in unstructured text</a>. arXiv preprint arXiv:1811.05768, 2018.</li>
+<li> S. D'Souza, D. Shah, A. Allati, and P. Soni. <a href="making-forecasting-self-learning-and-adaptive-pilot-forecasting-rack/">Making forecasting self-learning and adaptive – pilot forecasting rack</a>. arXiv preprint arXiv:2306.07305, 2023.</li>
+<li> S. D'Souza. <a href="intelligent-supply-chain-management-using-quantum/">Intelligent supply chain management using quantum</a>. hal-03740772, 2022.</li>
+<li> P. Pathakota, K. Zaid, A. Dhara, H. Meisheri, S. D'Souza, D. Shah, and H. Khadilkar. <a href="learning-to-minimize-cost-to-serve-for-multi-node-multi-product-order-fulfilment-in-electronic-commerce/">Learning to minimize cost to serve for multi-node multi-product order fulfilment in electronic commerce</a>. In Proceedings of the 6th Joint International Conference on Data Science & Management of Data (CODS-COMAD), pages 176–184, 2023.</li>
+<li> S. D'Souza. <a href="implementing-reinforcement-learning-algorithms-in-retail-supply-chains-with-openai-gym-toolkit/">Implementing reinforcement learning algorithms in retail supply chains with openai gym toolkit</a>. arXiv preprint arXiv:2104.14398, 2021. <a href="https://www.tcs.com/what-we-do/industries/retail/white-paper/reinforcement-learning-algorithms-retail-supply-chain">Evangelist, Mission Algo 2021.</a></li>
+<li> S. D'Souza and B. Mehta. <a href="defining-a-sandbox-for-responsible-ai/">Defining a sandbox for responsible ai</a>. Available at SSRN 3255075, 2018. SSRN's Top 100 download list for CompSciRN: Artificial Intelligence, 2018.</li>
+<li> S. D'Souza. <a href="lstm-neural-network-for-textual-ngrams/">LSTM neural network for textual ngrams</a>. Preprints, 2018. SSRN's Top Ten download list for CompSciRN: Artificial Intelligence, Dec, 2018.</li>
+<li> S. D'Souza. <a href="parser-extraction-of-triples-in-unstructured-text/">Parser extraction of triples in unstructured text</a>. arXiv preprint arXiv:1811.05768, 2018.</li>
 </ol>
 
 <h3>Software Engineering</h3>
 
 <ol start="8">
-<li> S. D'Souza. <a href="https://arxiv.org/pdf/1810.03955.pdf">Holistic generational offsets: fostering a primitive online abstraction for human vs. machine cognition</a>. arXiv preprint arXiv:1810.03955, 2019. PhD Pre-candidate.</li>
-<li> S. D'Souza. <a href="https://arxiv.org/pdf/1809.07794.pdf">Evolving system bottlenecks in the as a service cloud</a>. arXiv preprint arXiv:1809.07794, 2018.</li>
-<li> S. D'Souza. <a href="https://peerj.com/preprints/27350.pdf">Eclipse cdt code analysis and unit testing</a>. PeerJ Preprints, 6:e27350v1, 2018. PeerJ Top 5 most viewed article in Programming Languages, 2018.</li>
-<li> S. D'Souza. <a href="https://arxiv.org/pdf/1810.03955v1.pdf">Cognitive architecture for a connected world</a>. arXiv preprint arXiv:1810.03955v1, 2018. Top 10 Shortlisted, Whitepaper Contest, Wipro.</li>
-<li> T. Kgil, S. D'Souza, A. Saidi, N. Binkert, R. Dreslinski, T. Mudge, S. Reinhardt, and K. Flautner. <a href="https://citeseerx.ist.psu.edu/document?doi=e0ab822e29389631faf8331b850ae50120789334">Picoserver: using 3d stacking technology to enable a compact energy efficient chip multiprocessor</a>. International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS :117–128, 2006.</li>
+<li> S. D'Souza. <a href="holistic-generational-offsets-fostering-a-primitive-online-abstraction-for-human-vs-machine-cognition/">Holistic generational offsets: fostering a primitive online abstraction for human vs. machine cognition</a>. arXiv preprint arXiv:1810.03955, 2019. PhD Pre-candidate.</li>
+<li> S. D'Souza. <a href="evolving-system-bottlenecks-in-the-as-a-service-cloud/">Evolving system bottlenecks in the as a service cloud</a>. arXiv preprint arXiv:1809.07794, 2018.</li>
+<li> S. D'Souza. <a href="eclipse-cdt-code-analysis-and-unit-testing/">Eclipse cdt code analysis and unit testing</a>. PeerJ Preprints, 6:e27350v1, 2018. PeerJ Top 5 most viewed article in Programming Languages, 2018.</li>
+<li> S. D'Souza. <a href="cognitive-architecture-for-a-connected-world/">Cognitive architecture for a connected world</a>. arXiv preprint arXiv:1810.03955v1, 2018. Top 10 Shortlisted, Whitepaper Contest, Wipro.</li>
+<li> T. Kgil, S. D'Souza, A. Saidi, N. Binkert, R. Dreslinski, T. Mudge, S. Reinhardt, and K. Flautner. <a href="picoserver-using-3d-stacking-technology-to-enable-a-compact-energy-efficient-chip-multiprocessor/">Picoserver: using 3d stacking technology to enable a compact energy efficient chip multiprocessor</a>. In Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS, pages 117–128, 2006.</li>
 </ol>
 
 <h2>Patents</h2>
@@ -52,7 +46,7 @@
 <li> <a href="https://youtu.be/I7GpyOl_hD8">Irc author talk, tcs library - book feature</a>, 2022. A Retrospective on Enabling a Connected World.</li>
 <li> <a href="https://youtu.be/QPPc8V-Zg4w">Pie & ai: navi mumbai-past and future of ai and the scope of ms in ai</a>, 2020. SMLRA in association with deeplearning.ai</li>
 <li> <a href="https://figshare.com/articles/TAS_SLI_-_Case_Study_Team/7857710">Tas sli - case study team</a>, 2018. Technology Architecture School (TAS) Case Study, Accenture</li>
-<li> S. D'Souza, U. Jakati, and P. Athreyee. <a href="https://webcast.accenture.com?eventid=34502">Learn over coffee: computer vision and the role of continuous testing in devops</a>, 2018. <a href="https://doi.org/10.5281/zenodo.3382079">Global Webcast, Accenture. 300+ attendees, Intranet</a></li>
+<li> <a href="https://webcast.accenture.com?eventid=34502">Learn over coffee: computer vision and the role of continuous testing in devops</a>, 2018. <a href="https://doi.org/10.5281/zenodo.3382079">Global Webcast, Accenture. 300+ attendees, Intranet</a></li>
 <li> <a href="https://ssrn.com/abstract=3285190">Systems challenges for ai (presentation slides)</a>. Available at SSRN 3285190, 2018. Reading Group, Accenture</li>
 <li> <a href="https://ssrn.com/abstract=3242799">Learning with classification and clustering, neural networks (presentation slides)</a>. Available at SSRN 3242799, 2018. Short Term Training Program (STTP) on Machine Learning. FCRIT</li>
 <li> <a href="https://figshare.com/articles/Eclipse_CDT_code_analysis_and_unit_testing/7379762">Eclipse cdt code analysis and unit testing</a>, 2015. Poster Presentation. Awarded Best Pragati, Wipro</li>
@@ -73,6 +67,3 @@
 <li> <a href="https://nbviewer.jupyter.org/github/shaundsouza/ai-ecosystems-enabling/blob/master/web.html">Web.html</a>, 2018.</li>
 <li> <a href="https://figshare.com/articles/prog_lang_py/7379507">Prog lang.py</a>, 2018.</li>
 </ul>
-
-</body>
-</html>

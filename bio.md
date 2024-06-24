@@ -1,14 +1,8 @@
-<!DOCTYPE html>
- 
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Shaun D'Souza | Bio</title>
-</head>
-<body>
-
-<h2>Bio</h2>
+---
+layout: page
+title: Bio
+permalink: /bio/
+---
 
 <p>
 Shaun D'Souza has around two decades of experience in AI/ML, Software Engineering, Gen AI, R&D, Business. He has a varied experience in Computer Science and Engineering. Shaun completed his BS from <a href="https://www.cornell.edu">Cornell University</a> with a Double Major in <a href="https://www.cs.cornell.edu">Computer Science</a>, <a href="https://www.ece.cornell.edu">Electrical and Computer Engineering</a>, Cum Laude Honors in 2003. He completed his MSE in <a href="https://cse.engin.umich.edu">Electrical Engineering</a> from the <a href="https://umich.edu">University of Michigan, Ann Arbor</a>, Electrical Engineering and Computer Science Department in 2005.
@@ -43,6 +37,3 @@ Shaun has published a paper on <a href="https://arxiv.org/pdf/1810.03955.pdf">Ho
 
 He has presented in Knowledge Sharing Sessions, Expert Talks and Brown Bag sessions on AI and ML. 
 </p>
-
-</body>
-</html>
