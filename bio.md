@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-permalink: /bio/
+permalink: /bio
 ---
 
 <p>
@@ -29,11 +29,11 @@ Shaun has completed coursework in Machine Learning, Advanced Compilers, Algorith
 <p>
 Shaun has worked with some of the top companies in the Software industry including, Accenture, Wipro, Tata Group, Intel and IBM. On graduation, he interned with IBM in the Sony Toshiba IBM Design Center. At Intel, he worked in the Ultra Mobility Group. At Wipro, he worked in the CTO Office on HOLMES.
 
-Shaun has published papers and been granted a patent on Information Extraction and Syntactic Parsing. The Granted Patent in AI, ML (NLP) is on a <a href="https://patents.google.com/patent/US10002129B1/en">System and method for extracting information from unstructured text</a>. He received Best Pragati at Wipro for his poster presentation on <a href="https://figshare.com/articles/Eclipse_CDT_code_analysis_and_unit_testing/7379762">Eclipse CDT code analysis and unit testing</a>. The <a href="https://peerj.com/preprints/27350.pdf">paper</a> was PeerJ's Top 5 most viewed article in Programming Languages, 2018. His papers on <a href="https://arxiv.org/pdf/1809.07794.pdf">Evolving system bottlenecks in the as a service cloud</a>, <a href="https://arxiv.org/pdf/1810.03955v1.pdf">Cognitive Architecture for a Connected World</a> and <a href="https://arxiv.org/pdf/1811.05768.pdf">Parser extraction of triples in unstructured text</a> are published in arXiv.
+Shaun has published papers and been granted a patent on Information Extraction and Syntactic Parsing. The Granted Patent in AI, ML (NLP) is on a <a href="https://patents.google.com/patent/US10002129B1/en">System and method for extracting information from unstructured text</a>. He received Best Pragati at Wipro for his poster presentation on <a href="https://figshare.com/articles/Eclipse_CDT_code_analysis_and_unit_testing/7379762">Eclipse CDT code analysis and unit testing</a>. The <a href="https://peerj.com/preprints/27350.pdf">paper</a> was PeerJ's Top 5 most viewed article in Programming Languages, 2018. His papers on <a href="https://arxiv.org/pdf/1809.07794">Evolving system bottlenecks in the as a service cloud</a>, <a href="https://arxiv.org/pdf/1810.03955v1">Cognitive Architecture for a Connected World</a> and <a href="https://arxiv.org/pdf/1811.05768">Parser extraction of triples in unstructured text</a> are published in arXiv.
 </p>
 
 <p>
-Shaun has published a paper on <a href="https://arxiv.org/pdf/1810.03955.pdf">Holistic generational offsets: fostering a primitive online abstraction for human vs. machine cognition</a> in arXiv. He has filed patents on Sentence phrase generation, Textual entailment and an Artificial intelligence and machine learning based conversational agent. His paper on <a href="https://ssrn.com/abstract=3255075">Defining a Sandbox for Responsible AI</a> was in SSRN's Top 100 in CompSciRN: Artificial Intelligence, 2018. His paper on <a href="https://www.preprints.org/manuscript/201811.0579/v1/download">LSTM neural network for textual ngrams</a> was SSRN's Top Ten download list for CompSciRN: Artificial Intelligence, Dec, 2018.
+Shaun has published a paper on <a href="https://arxiv.org/pdf/1810.03955">Holistic generational offsets: fostering a primitive online abstraction for human vs. machine cognition</a> in arXiv. He has filed patents on Sentence phrase generation, Textual entailment and an Artificial intelligence and machine learning based conversational agent. His paper on <a href="https://ssrn.com/abstract=3255075">Defining a Sandbox for Responsible AI</a> was in SSRN's Top 100 in CompSciRN: Artificial Intelligence, 2018. His paper on <a href="https://www.preprints.org/manuscript/201811.0579/v1/download">LSTM neural network for textual ngrams</a> was SSRN's Top Ten download list for CompSciRN: Artificial Intelligence, Dec, 2018.
 
 He has presented in Knowledge Sharing Sessions, Expert Talks and Brown Bag sessions on AI and ML. 
 </p>

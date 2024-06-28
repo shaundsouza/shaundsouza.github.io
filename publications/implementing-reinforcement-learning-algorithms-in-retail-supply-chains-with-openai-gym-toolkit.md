@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/implementing-reinforcement-learning-algorithms-in-retail-supply-chains-with-openai-gym-toolkits/
+permalink: /publications/implementing-reinforcement-learning-algorithms-in-retail-supply-chains-with-openai-gym-toolkit/
 ---
 
 AI, Generative AI / Reinforcement Learning 
@@ -8,7 +8,7 @@ AI, Generative AI / Reinforcement Learning
 ### Implementing reinforcement learning algorithms in retail supply chains with openai gym toolkit
 S. D'Souza
  
-#### [Paper](https://arxiv.org/pdf/2104.14398.pdf)
+#### [Paper](https://arxiv.org/pdf/2104.14398)
 arXiv preprint arXiv:2104.14398, 2021. [Evangelist, Mission Algo 2021](https://www.tcs.com/what-we-do/industries/retail/white-paper/reinforcement-learning-algorithms-retail-supply-chain)
  
 #### Abstract

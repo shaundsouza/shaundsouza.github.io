@@ -8,7 +8,7 @@ Software Engineering
 ### Holistic generational offsets: fostering a primitive online abstraction for human vs. machine cognition
 S. D'Souza
  
-#### [Paper](https://arxiv.org/pdf/1810.03955.pdf)
+#### [Paper](https://arxiv.org/pdf/1810.03955)
 arXiv preprint arXiv:1810.03955, 2019. PhD Pre-candidate
  
 #### Abstract

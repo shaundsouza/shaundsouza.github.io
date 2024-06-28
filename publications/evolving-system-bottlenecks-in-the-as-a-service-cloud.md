@@ -8,7 +8,7 @@ Software Engineering
 ### Evolving system bottlenecks in the as a service cloud
 S. D'Souza
  
-#### [Paper](https://arxiv.org/pdf/1809.07794.pdf)
+#### [Paper](https://arxiv.org/pdf/1809.07794)
 arXiv preprint arXiv:1809.07794, 2018
  
 #### Abstract

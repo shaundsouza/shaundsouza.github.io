@@ -8,7 +8,7 @@ AI, Generative AI / Reinforcement Learning
 ### Learning to minimize cost to serve for multi-node multi-product order fulfilment in electronic commerce
 P. Pathakota, K. Zaid, A. Dhara, H. Meisheri, S. D'Souza, D. Shah, and H. Khadilkar
  
-#### [Paper](https://arxiv.org/pdf/2112.08736.pdf)
+#### [Paper](https://arxiv.org/pdf/2112.08736)
 In Proceedings of the 6th Joint International Conference on Data Science & Management of Data (CODS-COMAD), pages 176–184, 2023
  
 #### Abstract

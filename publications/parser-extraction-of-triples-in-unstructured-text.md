@@ -8,7 +8,7 @@ AI, Generative AI / Information Extraction / Knowledge Representation and Reason
 ### Parser extraction of triples in unstructured text
 S. D'Souza
  
-#### [Paper](https://arxiv.org/pdf/1811.05768.pdf)</a>&nbsp;&nbsp;[Code](https://github.com/shaundsouza/parser-triples)
+#### [Paper](https://arxiv.org/pdf/1811.05768)&nbsp;&nbsp;[Code](https://github.com/shaundsouza/parser-triples)
 arXiv preprint arXiv:1811.05768, 2018
  
 #### Abstract

@@ -8,7 +8,7 @@ AI, Generative AI
 ### Making forecasting self-learning and adaptive - pilot forecasting rack
 S. D'Souza, D. Shah, A. Allati, and P. Soni
  
-#### [Paper](https://arxiv.org/pdf/2306.07305.pdf)
+#### [Paper](https://arxiv.org/pdf/2306.07305)
 arXiv preprint arXiv:2306.07305, 2023
  
 #### Abstract

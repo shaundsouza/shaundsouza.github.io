@@ -8,7 +8,7 @@ Software Engineering / Distributed Computing / Parallel Programming
 ### Cognitive architecture for a connected world
 S. D'Souza
  
-#### [Paper](https://arxiv.org/pdf/1810.03955v1.pdf)
+#### [Paper](https://arxiv.org/pdf/1810.03955v1)
 arXiv preprint arXiv:1810.03955v1, 2018
  
 #### Abstract
