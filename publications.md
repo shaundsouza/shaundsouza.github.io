@@ -1,14 +1,8 @@
-<!DOCTYPE html>
- 
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Shaun D'Souza | Publications</title>
-</head>
-<body>
-
-<h2>Publications</h2>
+---
+layout: page
+title: Publications
+permalink: /publications
+---
 
 <ol>
 <li> S. D'Souza, D. Shah, A. Allati, and P. Soni. <a href="https://arxiv.org/pdf/2306.07305">Making forecasting self-learning and adaptive - pilot forecasting rack</a>. arXiv preprint arXiv:2306.07305, 2023.</li>
@@ -62,6 +56,3 @@
 <li> <a href="https://nbviewer.jupyter.org/github/shaundsouza/ai-ecosystems-enabling/blob/master/web.html">Web.html</a>, 2018.</li>
 <li> <a href="https://figshare.com/articles/prog_lang_py/7379507">Prog lang.py</a>, 2018.</li>
 </ul>
-
-</body>
-</html>
