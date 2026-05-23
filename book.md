@@ -4,8 +4,8 @@ title: Book
 permalink: /book/
 ---
 
-### [A Retrospective on Enabling a Connected World: The Race for the Original Primordial Soup](https://www.amazon.com/dp/B08KJCRKTN)
-#### [Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDq8GWwnM)
+## [A Retrospective on Enabling a Connected World: The Race for the Original Primordial Soup](https://www.amazon.com/dp/B08KJCRKTN)
+### [Audiobook](https://play.google.com/store/audiobooks/details?id=AQAAAEDq8GWwnM)
 
 <div style="text-align:center">
 <img style="height:400px;padding:20px" src="/assets/images/front.jpg" alt="front">

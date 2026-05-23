@@ -5,7 +5,7 @@ permalink: /bio
 ---
 
 <p>
-Shaun D'Souza has over 16 years experience in AI, ML, Software Engineering, R&D, Business. He has a varied experience in Computer Science and Engineering. Shaun completed his BS from <a href="https://www.cornell.edu">Cornell University</a> with a Double Major in <a href="https://www.cs.cornell.edu">Computer Science</a>, <a href="https://www.ece.cornell.edu">Electrical and Computer Engineering</a>, Cum Laude Honors in 2003. He completed his MSE in <a href="https://cse.engin.umich.edu">Electrical Engineering</a> from the <a href="https://umich.edu">University of Michigan, Ann Arbor</a>, Electrical Engineering and Computer Science Department in 2005.
+Shaun D'Souza has over 16 years experience in AI, ML, HW/SW Engineering, R&D, Business. He has a varied experience in Computer Science and Engineering. Shaun completed his BS from <a href="https://www.cornell.edu">Cornell University</a> with a Double Major in <a href="https://www.cs.cornell.edu">Computer Science</a>, <a href="https://www.ece.cornell.edu">Electrical and Computer Engineering</a>, Cum Laude Honors in 2003. He completed his MSE in <a href="https://cse.engin.umich.edu">Electrical Engineering</a> from the <a href="https://umich.edu">University of Michigan, Ann Arbor</a>, Electrical Engineering and Computer Science Department in 2005.
 
 Shaun has worked in Software/Business researching machine learning, generative AI, compilers, algorithms and systems. He has published several papers and been granted patents.
 </p>
